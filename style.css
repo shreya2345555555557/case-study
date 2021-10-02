@@ -1,0 +1,13 @@
+.copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+  .image-responsive{
+    height: 100px;
+  }
